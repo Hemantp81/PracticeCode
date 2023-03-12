@@ -1,2 +1,3 @@
 # PracticeCode
-Exercise code
+Playground
+
